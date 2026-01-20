@@ -1,0 +1,4 @@
+SECRET_KEY=your-secret-key-here
+MONGO_URL=your-mongodb-connection-string-here
+OLLAMA_URL=http://localhost:11434
+OLLAMA_MODEL=llama3.2
